@@ -1,3 +1,4 @@
 title: testpage
 theme: jekyll-theme-primer
 permalink: /posts/:title/
+lang: ja
